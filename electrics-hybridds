@@ -1,0 +1,54 @@
+region	make	model	drivetrain	first_year	last_year
+European	BMW	i3	BEV	2013	2015
+European	BMW	i8	PHEV	2014	2015
+European	Bollore	bluecar	BEV	2011	2015
+Asian	BYD	qin	PHEV	2013	2015
+American	Cadillac	elr	PHEV	2013	2015
+American	Chevrolet	spark ev	BEV	2013	2015
+American	Chevrolet	volt	BEV	2011	2015
+European	Fiat	500e	BEV	2013	2015
+American	Ford	c-max energi	PHEV	2013	2015
+American	Ford	focus electric	BEV	2012	2015
+American	Ford	fusion energi	PHEV	2013	2015
+Asian	Honda	accord hybrid	PHEV	2005	2015
+Asian	JAC	j3 ev	BEV	2010	2015
+Asian	Mahindra	e20	BEV	2012	2015
+European	Mercedes-Benz	b-class electric	BEV	2014	2015
+Asian	Mitsubishi	i-MiEV	BEV	2009	2015
+Asian	Nissan	leaf	BEV	2010	2015
+European	Opel	ampera	PHEV	2011	2015
+European	Renault	fluence ze	BEV	2011	2015
+European	Renault	zoe	BEV	2012	2015
+European	Smart	electric drive	BEV	2009	2015
+American	Tesla	model s	BEV	2012	2015
+Asian	Toyota	prius	PHEV	2001	2015
+Asian	Venucia	e30	BEV	2012	2015
+European	Volkswagen	e-Golf	BEV	2014	2015
+European	Volkswagen	e-Up	BEV	2013	2015
+European	Volvo	v60 hybrid	PHEV	2012	2015
+Asian	Kia	soul ev	BEV	2014	2015
+Asian	Reva	gwiz	BEV	2001	2012
+Asian	Honda	fit ev	BEV	2012	2014
+Asian	Honda	civic hybrid	PHEV	2012	2014
+Asian	Honda	insight	PHEV	2009	2014
+European	Volvo	c30 electric	BEV	2011	2013
+American	Baker	runabout	BEV	1904	1914
+American	Baker	stanhope	BEV	1904	1914
+American	Detriot Electric	brougham	BEV	1907	1939
+American	Chevrolet	s10 ev	BEV	1997	1998
+European	Citroen	berlingo electric	BEV	1996	2005
+American	Coda	cod	BEV	2012	2013
+American	Fisher	karma	PHEV	2011	2012
+American	Ford	ranger ev	BEV	1998	2003
+American	GM	ev1	BEV	1996	1997
+American	Studebaker	electric	BEV	1902	1912
+American	Sebring	citicar	BEV	1974	1977
+American	Tesla	roadster	BEV	2008	2012
+European	Think	city	BEV	2008	2012
+Asian	Toyota	rav4 ev	BEV	1997	2003
+Asian	Toyota	rav4 ev 2	BEV	2012	2014
+American	ZAP	xebra	BEV	2006	2009
+American	ZENN	zenn	BEV	2006	2010
+Asian	Nissan	hypermini	BEV	1999	2001
+American	Ford	escape hybrid	PHEV	2012	2014
+European	Mini	e	BEV	2009	2012
